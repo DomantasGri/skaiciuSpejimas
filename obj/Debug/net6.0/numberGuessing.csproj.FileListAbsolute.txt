@@ -1,0 +1,15 @@
+C:\Users\zaiba\OneDrive\Desktop\programavimas\C#\numberGuessing\numberGuessing\bin\Debug\net6.0\numberGuessing.exe
+C:\Users\zaiba\OneDrive\Desktop\programavimas\C#\numberGuessing\numberGuessing\bin\Debug\net6.0\numberGuessing.deps.json
+C:\Users\zaiba\OneDrive\Desktop\programavimas\C#\numberGuessing\numberGuessing\bin\Debug\net6.0\numberGuessing.runtimeconfig.json
+C:\Users\zaiba\OneDrive\Desktop\programavimas\C#\numberGuessing\numberGuessing\bin\Debug\net6.0\numberGuessing.dll
+C:\Users\zaiba\OneDrive\Desktop\programavimas\C#\numberGuessing\numberGuessing\bin\Debug\net6.0\numberGuessing.pdb
+C:\Users\zaiba\OneDrive\Desktop\programavimas\C#\numberGuessing\numberGuessing\obj\Debug\net6.0\numberGuessing.csproj.AssemblyReference.cache
+C:\Users\zaiba\OneDrive\Desktop\programavimas\C#\numberGuessing\numberGuessing\obj\Debug\net6.0\numberGuessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaiba\OneDrive\Desktop\programavimas\C#\numberGuessing\numberGuessing\obj\Debug\net6.0\numberGuessing.AssemblyInfoInputs.cache
+C:\Users\zaiba\OneDrive\Desktop\programavimas\C#\numberGuessing\numberGuessing\obj\Debug\net6.0\numberGuessing.AssemblyInfo.cs
+C:\Users\zaiba\OneDrive\Desktop\programavimas\C#\numberGuessing\numberGuessing\obj\Debug\net6.0\numberGuessing.csproj.CoreCompileInputs.cache
+C:\Users\zaiba\OneDrive\Desktop\programavimas\C#\numberGuessing\numberGuessing\obj\Debug\net6.0\numberGuessing.dll
+C:\Users\zaiba\OneDrive\Desktop\programavimas\C#\numberGuessing\numberGuessing\obj\Debug\net6.0\refint\numberGuessing.dll
+C:\Users\zaiba\OneDrive\Desktop\programavimas\C#\numberGuessing\numberGuessing\obj\Debug\net6.0\numberGuessing.pdb
+C:\Users\zaiba\OneDrive\Desktop\programavimas\C#\numberGuessing\numberGuessing\obj\Debug\net6.0\numberGuessing.genruntimeconfig.cache
+C:\Users\zaiba\OneDrive\Desktop\programavimas\C#\numberGuessing\numberGuessing\obj\Debug\net6.0\ref\numberGuessing.dll
